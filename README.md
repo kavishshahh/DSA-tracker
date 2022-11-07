@@ -2,7 +2,7 @@
 
 ## DSA
 - [x] Complete Git & GitHub Course
-- [ ] Introduction to Programming
+- [x] Introduction to Programming
   - - [x] Types of languages
   - - [x] Memory management
 - [ ] Flow of the program
