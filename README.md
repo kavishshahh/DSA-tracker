@@ -5,9 +5,9 @@
 - [x] Introduction to Programming
   - - [x] Types of languages
   - - [x] Memory management
-- [ ] Flow of the program
-  - - [ ] Flowcharts 
-  - - [ ] Pseudocode
+- [x] Flow of the program
+  - - [x] Flowcharts 
+  - - [x] Pseudocode
 - [ ] Introduction to Java
   - - [ ] Introduction
   - - [ ] How it works
