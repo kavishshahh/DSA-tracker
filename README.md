@@ -8,11 +8,11 @@
 - [x] Flow of the program
   - - [x] Flowcharts 
   - - [x] Pseudocode
-- [ ] Introduction to Java
-  - - [ ] Introduction
-  - - [ ] How it works
-  - - [ ] Setup Installation
-  - - [ ] Input and Output in Java
+- [x] Introduction to Java
+  - - [x] Introduction
+  - - [x] How it works
+  - - [x] Setup Installation
+  - - [x] Input and Output in Java
   - - [ ] Conditionals & Loops in Java
     - - [ ] if else
     - - [ ] loops
