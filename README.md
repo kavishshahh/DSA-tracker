@@ -20,8 +20,8 @@
   - - [x] Data types
   - - [x] Coding best practices
 - [ ] Functions
-  - - [ ] Introduction
-  - - [ ] Scoping in Java
+  - - [x] Introduction
+  - - [x] Scoping in Java
   - - [ ] Shadowing 
   - - [ ] Variable Length Arguments
   - - [ ] Overloading
