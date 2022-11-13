@@ -25,7 +25,7 @@
   - - [x] Shadowing 
   - - [x] Variable Length Arguments
   - - [x] Overloading
-- [] Arrays
+- [ ] Arrays
   - - [x] Introduction 
   - - [x] Memory management 
   - - [x] Input and Output
