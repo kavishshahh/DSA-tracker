@@ -36,10 +36,10 @@
     - - [ ] Bubble Sort
     - - [ ] Cyclic Sort (Merge sort etc after recursion)
   - [ ] Searching 
-    - - [ ] Linear Search
-    - - [ ] Binary Search
+    - - [x] Linear Search
+    - - [x] Binary Search
     - - [ ] Modified Binary Search
-    - - [ ] Binary Search Interview questions
+    - - [x] Binary Search Interview questions
     - - [ ] Binary Search on 2D Arrays
 - [ ] Pattern questions
 - [ ] Strings
