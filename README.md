@@ -31,16 +31,16 @@
   - - [x] Input and Output
   - - [x] ArrayList Introduction
   - - [ ] Sorting 
-    - - [ ] Insertion Sort
-    - - [ ] Selection Sort
-    - - [ ] Bubble Sort
+    - - [x] Insertion Sort
+    - - [x] Selection Sort
+    - - [x] Bubble Sort
     - - [ ] Cyclic Sort (Merge sort etc after recursion)
   - [ ] Searching 
     - - [x] Linear Search
     - - [x] Binary Search
     - - [ ] Modified Binary Search
     - - [x] Binary Search Interview questions
-    - - [ ] Binary Search on 2D Arrays
+    - - [x] Binary Search on 2D Arrays
 - [ ] Pattern questions
 - [ ] Strings
     - [ ] Introduction
