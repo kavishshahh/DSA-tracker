@@ -25,7 +25,7 @@
   - - [x] Shadowing 
   - - [x] Variable Length Arguments
   - - [x] Overloading
-- [ ] Arrays
+- [x] Arrays
   - - [x] Introduction 
   - - [x] Memory management 
   - - [x] Input and Output
@@ -34,20 +34,20 @@
     - - [x] Insertion Sort
     - - [x] Selection Sort
     - - [x] Bubble Sort
-    - - [ ] Cyclic Sort (Merge sort etc after recursion)
-  - [ ] Searching 
+    - - [x] Cyclic Sort (Merge sort etc after recursion)
+  - [x] Searching 
     - - [x] Linear Search
     - - [x] Binary Search
-    - - [ ] Modified Binary Search
+    - - [x] Modified Binary Search
     - - [x] Binary Search Interview questions
     - - [x] Binary Search on 2D Arrays
-- [ ] Pattern questions
-- [ ] Strings
-    - [ ] Introduction
-    - [ ] How Strings work
-    - [ ] Comparison of methods
-    - [ ] Operations in Strings
-    - [ ] StringBuilder in java
+- [x] Pattern questions
+- [x] Strings
+    - [x] Introduction
+    - [x] How Strings work
+    - [x] Comparison of methods
+    - [x] Operations in Strings
+    - [x] StringBuilder in java
 - [ ] Maths for DSA
     - - [ ] Introduction
     - - [ ] Complete Bitwise Operators
